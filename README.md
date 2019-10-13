@@ -1,4 +1,4 @@
-# metis_challenges
+# Metis Challenges
 
 This repository contains the submissions for the challenge sets completed during the Metis Data Science Program in Fall 2019
 

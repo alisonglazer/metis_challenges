@@ -20,3 +20,7 @@ This repository contains the submissions for the challenge sets completed during
 
 ## [Challenge Set 8](challenge_set_7_alison.ipynb)
 - Classification Errors
+
+## [Challenge Set 9](challenge_set_09_SQL)
+- SQL
+- Psycopg2, SQLite, SQLalchemy
